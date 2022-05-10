@@ -40,7 +40,7 @@ Output: 1
 
 首先看下圖
 
-![diameter.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d36b7163-c123-49c3-9c64-52cfda65f80a/diameter.png)
+![](https://i.imgur.com/fAxCMMK.png)
 
 每個結點 node 的 diameter 有兩種可能 
 
